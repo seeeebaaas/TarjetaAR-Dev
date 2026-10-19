@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 43,
+    "left": 0,
+    "width": 779,
+    "height": 1038,
+    "isRotated": true,
+    "originalWidth": 779,
+    "originalHeight": 1125
+  },
+  "imagePath": "image-targets/Recurso 1@4x_luminance.jpg",
+  "metadata": null,
+  "name": "Recurso 1@4x",
+  "resources": {
+    "originalImage": "Recurso 1@4x_original.jpg",
+    "croppedImage": "Recurso 1@4x_cropped.jpg",
+    "thumbnailImage": "Recurso 1@4x_thumbnail.jpg",
+    "luminanceImage": "Recurso 1@4x_luminance.jpg"
+  },
+  "created": 1790630067313,
+  "updated": 1790630067313
+}
