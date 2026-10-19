@@ -149,7 +149,7 @@
           "type": "asset",
           "asset": "assets/SR.glb"
         },
-        "animationClip": "*",
+        "animationClip": "",
         "loop": true,
         "reverse": false,
         "timeScale": 1,
