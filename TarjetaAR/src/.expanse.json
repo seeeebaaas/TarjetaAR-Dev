@@ -163,7 +163,7 @@
       "position": [
         0.42262938780911097,
         1.4466437450779169e-16,
-        0.6515104231270765
+        0.7
       ],
       "rotation": [
         0.7071067811865475,
@@ -184,7 +184,8 @@
           "id": "c7bc58f8-6f30-4711-b9c2-702b960313d0",
           "name": "Open URL 3D Object",
           "parameters": {
-            "url": "https://www.instagram.com/seeeebaaas/"
+            "url": "https://www.instagram.com/seeeebaaas/",
+            "enabled": true
           }
         }
       },
@@ -197,7 +198,52 @@
         "loop": true
       },
       "name": "insta.glb",
-      "order": 8.760736482649307
+      "order": 8.760736482649307,
+      "shadow": {
+        "receiveShadow": true,
+        "castShadow": true
+      }
+    },
+    "3f91a1a9-cb54-4a0d-a56a-845955331810": {
+      "id": "3f91a1a9-cb54-4a0d-a56a-845955331810",
+      "position": [
+        0,
+        1.360102845928348e-16,
+        0.69
+      ],
+      "rotation": [
+        0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "8678d16e-6885-4c78-a1e3-ec65407e8607",
+      "components": {
+        "6ac5fc82-77c8-4b7e-a9cc-1aa414a6f8da": {
+          "id": "6ac5fc82-77c8-4b7e-a9cc-1aa414a6f8da",
+          "name": "Open URL 3D Object",
+          "parameters": {
+            "url": "https://wa.me/573153385359"
+          }
+        }
+      },
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/wpp.glb"
+        },
+        "animationClip": "",
+        "loop": true
+      },
+      "name": "wpp.glb",
+      "order": 10.351581167567394
     }
   },
   "spaces": {
