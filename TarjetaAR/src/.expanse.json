@@ -123,14 +123,14 @@
       "id": "553c5cdb-7246-49d7-9f09-59f8c422a996",
       "position": [
         0,
-        0.2692682568798575,
-        0
+        5.97895637177398e-17,
+        0.2692682568798575
       ],
       "rotation": [
+        0.7071067811865475,
         0,
         0,
-        0,
-        1
+        0.7071067811865476
       ],
       "scale": [
         0.45,
@@ -142,14 +142,14 @@
         "type": "basic",
         "color": "#FFFFFF"
       },
-      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "parentId": "8678d16e-6885-4c78-a1e3-ec65407e8607",
       "components": {},
       "gltfModel": {
         "src": {
           "type": "asset",
           "asset": "assets/SR.glb"
         },
-        "animationClip": "",
+        "animationClip": "*",
         "loop": true,
         "reverse": false,
         "timeScale": 1,
