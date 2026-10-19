@@ -117,14 +117,15 @@
       "imageTarget": {
         "name": "Recurso 1@4x"
       },
-      "order": 5.770031628324775
+      "order": 5.770031628324775,
+      "hidden": true
     },
     "553c5cdb-7246-49d7-9f09-59f8c422a996": {
       "id": "553c5cdb-7246-49d7-9f09-59f8c422a996",
       "position": [
         0,
-        8.998255346595617e-17,
-        0.4052453942591259
+        1.1434812057376237e-16,
+        0.5149781532065127
       ],
       "rotation": [
         0.7071067811865475,
@@ -142,7 +143,7 @@
         "type": "basic",
         "color": "#FFFFFF"
       },
-      "parentId": "8678d16e-6885-4c78-a1e3-ec65407e8607",
+      "parentId": "1bc290ea-bebf-41dd-bc3d-403666f1ef7b",
       "components": {},
       "gltfModel": {
         "src": {
@@ -162,8 +163,8 @@
       "id": "06de9e85-804e-4de9-a8bf-a38c7f197c44",
       "position": [
         -0.4525310189586539,
-        6.717986438788103e-19,
-        0.05151508899516405
+        2.5037365751685e-17,
+        0.16124784794255081
       ],
       "rotation": [
         0.7071067811865475,
@@ -178,7 +179,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "8678d16e-6885-4c78-a1e3-ec65407e8607",
+      "parentId": "1bc290ea-bebf-41dd-bc3d-403666f1ef7b",
       "components": {
         "c7bc58f8-6f30-4711-b9c2-702b960313d0": {
           "id": "c7bc58f8-6f30-4711-b9c2-702b960313d0",
@@ -198,7 +199,7 @@
         "loop": true
       },
       "name": "insta.glb",
-      "order": 8.760736482649307,
+      "order": 10.424332228915608,
       "shadow": {
         "receiveShadow": true,
         "castShadow": true
@@ -208,8 +209,8 @@
       "id": "3f91a1a9-cb54-4a0d-a56a-845955331810",
       "position": [
         0.26185354377920916,
-        -7.982291271078095e-18,
-        0.04151508899516404
+        1.6383275836728094e-17,
+        0.1512478479425508
       ],
       "rotation": [
         0.7071067811865475,
@@ -224,7 +225,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "8678d16e-6885-4c78-a1e3-ec65407e8607",
+      "parentId": "1bc290ea-bebf-41dd-bc3d-403666f1ef7b",
       "components": {
         "6ac5fc82-77c8-4b7e-a9cc-1aa414a6f8da": {
           "id": "6ac5fc82-77c8-4b7e-a9cc-1aa414a6f8da",
@@ -243,14 +244,14 @@
         "loop": true
       },
       "name": "wpp.glb",
-      "order": 10.351581167567394
+      "order": 11.488749925273599
     },
     "f5546149-ad9d-4ab9-b155-c276ff9bf824": {
       "id": "f5546149-ad9d-4ab9-b155-c276ff9bf824",
       "position": [
         0,
-        2.143047575336551e-16,
-        0.9651428261722936
+        2.3867032464146127e-16,
+        1.0748755851196803
       ],
       "rotation": [
         0.7071067811865475,
@@ -278,17 +279,17 @@
         "forceTransparent": true,
         "textureFiltering": "smooth"
       },
-      "parentId": "8678d16e-6885-4c78-a1e3-ec65407e8607",
+      "parentId": "1bc290ea-bebf-41dd-bc3d-403666f1ef7b",
       "components": {},
       "name": "Plane",
-      "order": 7.952621331065439
+      "order": 8.77447823298502
     },
     "028b39d4-bff3-4e59-a4ee-62cf6dc255e7": {
       "id": "028b39d4-bff3-4e59-a4ee-62cf6dc255e7",
       "position": [
         -0.01215985153205193,
-        0.011532039623542158,
-        0.12992149832666294
+        0.011532039623542182,
+        0.2396542572740497
       ],
       "rotation": [
         0.7071067811865475,
@@ -303,7 +304,7 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "8678d16e-6885-4c78-a1e3-ec65407e8607",
+      "parentId": "1bc290ea-bebf-41dd-bc3d-403666f1ef7b",
       "components": {
         "6235a969-2e9f-4fe8-861a-0e0f6974dcc4": {
           "id": "6235a969-2e9f-4fe8-861a-0e0f6974dcc4",
@@ -322,7 +323,35 @@
         "loop": true
       },
       "name": "0-3.glb",
-      "order": 12.3109533953377
+      "order": 12.694756813244751
+    },
+    "1bc290ea-bebf-41dd-bc3d-403666f1ef7b": {
+      "id": "1bc290ea-bebf-41dd-bc3d-403666f1ef7b",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "tarjetaSR",
+      "imageTarget": {
+        "name": "tarjetaSR"
+      },
+      "order": 7.657552082697756
     }
   },
   "spaces": {

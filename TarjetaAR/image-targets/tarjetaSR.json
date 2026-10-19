@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 44,
+    "left": 0,
+    "width": 699,
+    "height": 932,
+    "isRotated": true,
+    "originalWidth": 699,
+    "originalHeight": 1020
+  },
+  "imagePath": "image-targets/tarjetaSR_luminance.jpg",
+  "metadata": null,
+  "name": "tarjetaSR",
+  "resources": {
+    "originalImage": "tarjetaSR_original.jpg",
+    "croppedImage": "tarjetaSR_cropped.jpg",
+    "thumbnailImage": "tarjetaSR_thumbnail.jpg",
+    "luminanceImage": "tarjetaSR_luminance.jpg"
+  },
+  "created": 1792439579264,
+  "updated": 1792439579264
+}
