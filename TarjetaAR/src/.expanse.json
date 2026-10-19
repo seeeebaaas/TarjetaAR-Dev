@@ -119,38 +119,44 @@
       },
       "order": 5.770031628324775
     },
-    "0289c5ea-78a1-434b-a5a9-b558d3b42bd5": {
-      "id": "0289c5ea-78a1-434b-a5a9-b558d3b42bd5",
+    "553c5cdb-7246-49d7-9f09-59f8c422a996": {
+      "id": "553c5cdb-7246-49d7-9f09-59f8c422a996",
       "position": [
         0,
-        6.068661928191599e-17,
-        0.273308235984412
+        0.2692682568798575,
+        0
       ],
       "rotation": [
-        0.7071067811865475,
         0,
         0,
-        0.7071067811865476
+        0,
+        1
       ],
       "scale": [
-        0.5,
-        0.5,
-        0.5
+        0.45,
+        0.45,
+        0.45
       ],
       "geometry": null,
-      "material": null,
-      "parentId": "8678d16e-6885-4c78-a1e3-ec65407e8607",
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF"
+      },
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
       "gltfModel": {
         "src": {
           "type": "asset",
           "asset": "assets/SR.glb"
         },
-        "animationClip": "",
-        "loop": true
+        "animationClip": "*",
+        "loop": true,
+        "reverse": false,
+        "timeScale": 1,
+        "paused": false
       },
       "name": "SR.glb",
-      "order": 7.132355693837609
+      "order": 7.65314371821204
     }
   },
   "spaces": {
